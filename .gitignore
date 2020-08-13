@@ -5,7 +5,6 @@ src/main/resources/keys/
 .classpath
 .project
 
-*.txt
 .env
 *.properties
 

@@ -1,0 +1,10 @@
+target/
+src/main/resources/keys/
+
+.settings/
+.classpath
+.project
+
+*.txt
+.env
+*.properties
